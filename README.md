@@ -1,1 +1,1 @@
-# git-cuors
+# git-course
